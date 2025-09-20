@@ -39,7 +39,7 @@ body {
   .banner-sherlock {
     color: #f5c518;
     height: 60vh;
-    background: url('./Imagenes/banner.png') center/cover no-repeat;
+    background: url('./img/banner.png') center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -103,7 +103,7 @@ body {
   }
 
   .simple {
-    background: url(Imagenes/separador.webp) no-repeat center center;
+    background: url(img/separador.webp) no-repeat center center;
     background-size: contain;
     height: 3rem;
     width: 100%;
@@ -134,7 +134,7 @@ body {
 
   #Pruebascript {
     min-height: 100vh;
-    background: linear-gradient(rgba(42, 17, 17, 0.5), black), url('./Imagenes/Living.jpg') center no-repeat;
+    background: linear-gradient(rgba(42, 17, 17, 0.5), black), url('./img/Living.jpg') center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -152,7 +152,7 @@ body {
   }
 
   #Pruebascript .simple {
-    background: url(./Imagenes/separador.webp) no-repeat center center;
+    background: url(./img/separador.webp) no-repeat center center;
     height: 3rem;
     width: 100%;
     min-width: 10rem;
@@ -199,7 +199,7 @@ body {
   }
 
   #Actores .simple {
-    background: url(./Imagenes/separador.webp) no-repeat center center;
+    background: url(./img/separador.webp) no-repeat center center;
     height: 3rem;
     width: 100%;
     min-width: 10rem;  
@@ -489,7 +489,7 @@ body {
   }
 
   .simple {
-    background: url(./Imagenes/separador.webp) no-repeat center center;
+    background: url(./img/separador.webp) no-repeat center center;
     background-size: contain;
     height: 3rem;
     width: 100%;
@@ -697,7 +697,7 @@ body {
     height: 80vh;
     overflow: hidden;
     text-align: center;
-    background: url('./Imagenes/banner.png') center/cover no-repeat;
+    background: url('./img/banner.png') center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -756,7 +756,7 @@ body {
   }
 
   .simple {
-    background: url(./Imagenes/separador.webp) no-repeat center center;
+    background: url(./img/separador.webp) no-repeat center center;
     height: 3rem;
     width: 100%;
     min-width: 20rem;  
@@ -802,7 +802,7 @@ body {
   }
 
   #Pruebascript .simple {
-    background: url(./Imagenes/separador.webp) no-repeat center center;
+    background: url(./img/separador.webp) no-repeat center center;
     height: 3rem;
     width: 100%;
     min-width: 20rem;  
@@ -813,7 +813,7 @@ body {
 
   #Pruebascript {
     min-height: 100vh;
-    background: linear-gradient(rgb(42, 17, 17,0.5), black), url('./Imagenes/Living.jpg') center no-repeat;
+    background: linear-gradient(rgb(42, 17, 17,0.5), black), url('./img/Living.jpg') center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -869,7 +869,7 @@ body {
   }
 
   #Actores .simple {
-    background: url(./Imagenes/separador.webp) no-repeat center center;
+    background: url(./img/separador.webp) no-repeat center center;
     height: 3rem;
     width: 100%;
     min-width: 20rem;  
